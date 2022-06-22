@@ -1,6 +1,6 @@
 # Cursos_tomados_en_codigo_facilito
 
-<p align="center">
+
 | Curso | Link al repo |
 | ------------- | -----:|
 |`Curso profesional de Python`|[Link al repo](https://github.com/HannyCarballo/Curso-profesional-de-Python)|
@@ -14,4 +14,4 @@
 |`Taller Container Queries en CSS`|[Link al repo](https://github.com/HannyCarballo/Taller_Container_Queries_en_CSS)|
 |`Curso Profesional Desarrollo Web`|[Link al repo](https://github.com/HannyCarballo/Curso_Profesional_Desarrollo_Web)|
 |`Curso de introducción a deep learning`|[Link al repo](https://github.com/HannyCarballo/Curso_de_introduccion_a_deep_learning)|
-</p>
+
