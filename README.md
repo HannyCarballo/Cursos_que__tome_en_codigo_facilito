@@ -1,4 +1,5 @@
-# Cursos_tomados_en_codigo_facilito <img width="200" alt="image" src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47wy1cdaq4mev34rdgcbcwh9u4jribhlilwhmxfly6&rid=giphy.gif&ct=s">
+<img width="100" alt="image" src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47wy1cdaq4mev34rdgcbcwh9u4jribhlilwhmxfly6&rid=giphy.gif&ct=s">
+# Cursos_tomados_en_codigo_facilito 
 
 | Curso | Link al repo |
 | ------------- | -----:|
