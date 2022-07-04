@@ -12,5 +12,5 @@
 |`Curso de Bases y conceptos de la Ciencia de Datos`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20bases%20y%20conceptos%20de%20la%20Ciencia%20de%20Datos)|
 |`Taller Container Queries en CSS`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Taller%20Container%20Queries%20en%20CSS)|
 |`Curso Profesional Desarrollo Web`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20Profesional%20Desarrollo%20Web)|
-|`Curso de introducción a deep learning`|[Link al curso]()|
+|`Curso de introducción a deep learning`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20introduccion%20a%20deep%20learning)|
 |`Bootcamp matemáticas discretas` |[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20matematicas%20discretas%20(Bootcamp))|
