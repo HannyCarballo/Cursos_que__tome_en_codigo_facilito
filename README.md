@@ -3,7 +3,7 @@
 | Curso | Link al repo |
 | ------------- | -----:|
 |`Curso profesional de Python`|[Link al repo](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20profesional%20de%20Python)|
-|`Taller de introducción a Next.js`|[Link al repo](https://github.com/HannyCarballo/nextjs-initial-workshop)|
+|`Taller de introducción a Next.js`|[Link al repo](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/nextjs%20initial%20workshop)|
 |`Curso de React Native`|[Link al repo](https://github.com/HannyCarballo/Curso_de_React_Native)|
 |`Curso de introducción a Machine Learning`|[Link al repo](https://github.com/HannyCarballo/Curso_de_introduccion_a_Machine_Learning)|
 |`Curso de CSS`|[Link al repo](https://github.com/HannyCarballo/Curso_de_CSS_a_fondo)|
