@@ -13,4 +13,4 @@
 |`Taller Container Queries en CSS`|[Link al repo](https://github.com/HannyCarballo/Taller_Container_Queries_en_CSS)|
 |`Curso Profesional Desarrollo Web`|[Link al repo](https://github.com/HannyCarballo/Curso_Profesional_Desarrollo_Web)|
 |`Curso de introducción a deep learning`|[Link al repo](https://github.com/HannyCarballo/Curso_de_introduccion_a_deep_learning)|
-
+|`Bootcamp matemáticas discretas` |[Link al repo](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20matematicas%20discretas%20(Bootcamp))|
