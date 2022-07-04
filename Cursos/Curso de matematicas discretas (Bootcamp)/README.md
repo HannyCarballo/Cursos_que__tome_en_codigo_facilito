@@ -1,1 +1,1 @@
-# Curso_de_matematicas_discretas_-Bootcamp-
+# Curso de matematicas discretas(Bootcamp)
