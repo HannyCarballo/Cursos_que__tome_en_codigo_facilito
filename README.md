@@ -5,7 +5,7 @@
 |`Curso profesional de Python`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20profesional%20de%20Python)|
 |`Taller de introducción a Next.js`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/nextjs%20initial%20workshop)|
 |`Curso de React Native`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20React%20Native)|
-|`Curso de introducción a Machine Learning`|[Link al curso]()|
+|`Curso de introducción a Machine Learning`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20introduccion%20a%20Machine%20Learning)|
 |`Curso de CSS`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20CSS%20a%20fondo)|
 |`Curso de Pruebas unitarias con Python`|[Link al curso]()|
 |`Curso de Accesibilidad Web`|[Link al curso](https://github.com/HannyCarballo/Cursos_tomados_en_codigo_facilito/tree/master/Cursos/Curso%20de%20Accesibilidad%20Web)|
