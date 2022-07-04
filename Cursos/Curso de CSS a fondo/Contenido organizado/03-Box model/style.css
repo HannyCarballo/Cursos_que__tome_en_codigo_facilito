@@ -1,0 +1,49 @@
+.caja{
+    background-color: yellow;
+    width:200px;
+    height: 200px;
+    /* min-height: 500px; */
+    /* padding: 30 px; */
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+
+    padding: 30px 50px 50px 30px;
+
+
+    border-color:purple;
+    border-style: ridge;
+    /*
+    * BORDER STYLE
+    * dotted
+    * dashed
+    * solid
+    * double
+    * groove
+    * ridge  
+    */
+
+    border-width: 15px;
+    /* border-top-width: 15px;
+    border-right-width: 5px;
+    border-bottom-width: 15px;
+    border-left-width: 5px; */
+}
+
+.caja1{
+    margin:40px;
+}
+
+ .main{
+     background-color: blueviolet;
+     color:aliceblue;
+     margin-bottom: 30px;
+     padding: .1px;
+}
+
+.footer{
+    color:aliceblue;
+    background-color: aquamarine;
+    margin-top: 50px;
+}

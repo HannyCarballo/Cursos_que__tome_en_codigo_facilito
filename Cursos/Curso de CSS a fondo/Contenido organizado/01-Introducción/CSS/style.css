@@ -1,0 +1,51 @@
+/* 
+Aqui va un selector de tipo.
+*/
+
+/*
+Tip pro: Una manera más rápida de comentar es seleccionar todo lo que desees comentar y poner control k control u
+*/
+
+/* 
+SELECTOR DE TIPO
+    h2{
+    color:aqua; 
+    border: 1px solid black;
+    font-size: 40px;
+} */
+
+/* *{
+    color:blue;
+} */
+/*
+    .titulo{
+    color:brown;
+    font-size:30px;
+    border: 1px solid black;
+}
+
+#titulo{
+    color:blue;
+    font-size: 30px;
+}
+
+h2{
+    color:aqua; 
+    border: 1px solid black;
+    font-size: 40px;
+}
+
+h1{
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+} */
+
+ .abuelo .titulo{
+     color:red;
+     font-size:40px;
+ }
+
+ .abuelo> .titulo{
+     color:blue;
+ }

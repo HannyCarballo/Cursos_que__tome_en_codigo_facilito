@@ -1,0 +1,11 @@
+body{
+    font-family: calibri;
+    color:antiquewhite;
+}
+
+ /*
+ ESPECIFICIDAD
+ 1 - Selector de tipo, Pseudoelementos ::
+ 10 - Selector de clase, Pseudoclases :, []
+ 100 - Selector de id
+ */
